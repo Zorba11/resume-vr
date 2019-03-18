@@ -1,4 +1,5 @@
-**The solar system** - Intro to React VR
+resume - vr
+The materials in this code belongs to Shay Keinan, I am just trying this out as per his talk at ReactNext conference 2017. This is not used for any commercial purposes.
 ===================================
 
 About
