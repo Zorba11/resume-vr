@@ -7,8 +7,8 @@ import {
 
 const MyHeader = ({currentPlanet}) => (
   <View style={styles.header}>
-    <Text style={styles.headerTitle}>The Solar System</Text>
-    <Text style={styles.headerSubtitle}>{currentPlanet}</Text>
+    <Text style={styles.headerTitle}>Alen George</Text>
+    <Text style={styles.headerSubtitle}>Look Left to see my {currentPlanet}</Text>
   </View>
 );
 
