@@ -1,10 +1,10 @@
 resume - vr
-The materials in this code belongs to Shay Keinan, I am just trying this out as per his talk at ReactNext conference 2017. This is not used for any commercial purposes.
+
 ===================================
 
 About
 -----
-A demo application of React VR.
+The materials in this code belongs to Shay Keinan, I am just trying this out as per his talk at ReactNext conference 2017. This is not used for any commercial purposes.
 
 Installation & Requirements
 -------------------------
@@ -19,7 +19,7 @@ After all the dependencies are installed run:
 
     npm start
 
-Open your browser to [http://localhost:8081/vr/index.html](http://localhost:8081/vr/index.html).
+Open your browser to [http://localhost:8081/vr/index.html
 
 You are not allowed to use the models and textures, just to try them with the application.
 
