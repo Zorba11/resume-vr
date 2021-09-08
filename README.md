@@ -1,5 +1,7 @@
 resume - vr
 
+live - https://alenvr.netlify.app/
+
 ===================================
 
 About
